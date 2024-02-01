@@ -1,3 +1,9 @@
+<div id="header" align="center">
+  <img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJsdXhncHAycmg0aG43N3ltajF1Mm1mZ2s0azd0cmdodTNkeWthNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fCwP577leP6zwLLtB8/giphy.gif"/>
+</div>
+
+<br>
+
 ### Hi 👋, I’m Maxance (or ZeyKii), currently studying second year of computer science, with a passion for cybersecurity.
 
 #### I post school and personal projects that demonstrate my competence in different fields. Do not hesitate to contact me !
