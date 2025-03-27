@@ -4,7 +4,7 @@
 
 <br>
 
-### Hi 👋, I’m Maxance (or ZeyKii), currently studying second year of computer science, with a passion for cybersecurity.
+### Hi 👋, I’m Maxance (or ZeyKii), currently a third-year computer science student, specializing in cybersecurity.
 
 #### I post school and personal projects that demonstrate my competence in different fields. Do not hesitate to contact me !
 
