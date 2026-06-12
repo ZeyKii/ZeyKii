@@ -3,9 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/ZeyKii">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=C4B5FD&center=true&vCenter=true&width=600&lines=Hi,+I'm+Maxance+(ZeyKii);Computer+Science+Student;Cybersecurity+Enthusiast;CTF+Player" alt="Typing SVG" />
-  </a>
+  <a href="https://github.com/ZeyKii"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=C4B5FD&center=true&vCenter=true&width=600&lines=Hi,+I'm+Maxance+(ZeyKii);Computer+Science+Student;Cybersecurity+Enthusiast;CTF+Player" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -18,43 +16,26 @@
 <br>
 
 <div align="center">
-  <a href="mailto:maxance.ferran@outlook.fr">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=C4B5FD&labelColor=0d1117" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/maxance-ferran">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=C4B5FD&labelColor=0d1117" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.com/users/328241144586698752">
-    <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=C4B5FD&labelColor=0d1117" alt="Discord" />
-  </a>
+  <a href="mailto:maxance.ferran@outlook.fr"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=C4B5FD&labelColor=0d1117" alt="Email" /></a>
+  <a href="https://linkedin.com/in/maxance-ferran"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=C4B5FD&labelColor=0d1117" alt="LinkedIn" /></a>
+  <a href="https://discord.com/users/328241144586698752"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=C4B5FD&labelColor=0d1117" alt="Discord" /></a>
 </div>
-<br>
 
 <br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ZeyKii&style=flat-square&color=C4B5FD&labelColor=0d1117&label=visitors" />
-  <a href="https://github.com/ZeyKii?tab=followers">
-  <img src="https://img.shields.io/github/followers/ZeyKii?style=flat-square&color=C4B5FD&labelColor=0d1117&logo=github&v=1" />
-  </a>
+  <a href="https://github.com/ZeyKii?tab=followers"><img src="https://img.shields.io/github/followers/ZeyKii?style=flat-square&color=C4B5FD&labelColor=0d1117&logo=github&v=1" /></a>
 </div>
 
 <br>
 
 <h2 align="center">Training Platforms</h2>
 <div align="center">
-  <a href="https://www.root-me.org/ZeyKii">
-    <img src="https://img.shields.io/badge/Root_Me-0d1117?style=for-the-badge&logoColor=C4B5FD&labelColor=0d1117" alt="Root-Me" />
-  </a>
-  <a href="https://play.picoctf.org/users/ZeyKii">
-    <img src="https://img.shields.io/badge/picoCTF-0d1117?style=for-the-badge&logoColor=C4B5FD&labelColor=0d1117" alt="picoCTF" />
-  </a>
-  <a href="https://tryhackme.com/r/p/ZeyKii">
-    <img src="https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=C4B5FD&labelColor=0d1117" alt="TryHackMe" />
-  </a>
-  <a href="https://profile.hackthebox.com/profile/019c7006-115b-7096-a640-2a1fdab882a4">
-    <img src="https://img.shields.io/badge/Hack_The_Box-0d1117?style=for-the-badge&logo=hackthebox&logoColor=C4B5FD&labelColor=0d1117" alt="Hack The Box" />
-  </a>
+  <a href="https://www.root-me.org/ZeyKii"><img src="https://img.shields.io/badge/Root_Me-0d1117?style=for-the-badge&logoColor=C4B5FD&labelColor=0d1117" alt="Root-Me" /></a>
+  <a href="https://play.picoctf.org/users/ZeyKii"><img src="https://img.shields.io/badge/picoCTF-0d1117?style=for-the-badge&logoColor=C4B5FD&labelColor=0d1117" alt="picoCTF" /></a>
+  <a href="https://tryhackme.com/r/p/ZeyKii"><img src="https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=C4B5FD&labelColor=0d1117" alt="TryHackMe" /></a>
+  <a href="https://profile.hackthebox.com/profile/019c7006-115b-7096-a640-2a1fdab882a4"><img src="https://img.shields.io/badge/Hack_The_Box-0d1117?style=for-the-badge&logo=hackthebox&logoColor=C4B5FD&labelColor=0d1117" alt="Hack The Box" /></a>
 </div>
 
 <br>
@@ -62,15 +43,9 @@
 <h2 align="center">Systems</h2>
 
 <div align="center">
-  <a href="https://www.debian.org/">
-    <img src="https://img.shields.io/badge/Debian-0d1117?style=for-the-badge&logo=debian&logoColor=A81D33" alt="Debian" />
-  </a>
-  <a href="https://www.kali.org/">
-    <img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=C4B5FD" alt="Kali Linux" />
-  </a>
-  <a href="https://www.microsoft.com/windows">
-    <img src="https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows&logoColor=0078D6" alt="Windows" />
-  </a>
+  <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Debian-0d1117?style=for-the-badge&logo=debian&logoColor=A81D33" alt="Debian" /></a>
+  <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=C4B5FD" alt="Kali Linux" /></a>
+  <a href="https://www.microsoft.com/windows"><img src="https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows&logoColor=0078D6" alt="Windows" /></a>
 </div>
 
 <br>
