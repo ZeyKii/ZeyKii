@@ -33,7 +33,7 @@
 <h2 align="center">Training Platforms</h2>
 <div align="center">
   <a href="https://www.root-me.org/ZeyKii"><img src="https://img.shields.io/badge/Root_Me-0d1117?style=for-the-badge&logoColor=C4B5FD&labelColor=0d1117" alt="Root-Me" /></a>
-  <a href="https://play.picoctf.org/users/ZeyKii"><img src="https://img.shields.io/badge/picoCTF-0d1117?style=for-the-badge&logoColor=C4B5FD&labelColor=0d1117" alt="picoCTF" /></a>
+  <a href="https://learn.cylabacademy.org/users/ZeyKii"><img src="https://img.shields.io/badge/CyLab_Security_Academy-0d1117?style=for-the-badge&logoColor=C4B5FD&labelColor=0d1117" alt="CyLab Security Academy" /></a>
   <a href="https://tryhackme.com/r/p/ZeyKii"><img src="https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=C4B5FD&labelColor=0d1117" alt="TryHackMe" /></a>
   <a href="https://profile.hackthebox.com/profile/019c7006-115b-7096-a640-2a1fdab882a4"><img src="https://img.shields.io/badge/Hack_The_Box-0d1117?style=for-the-badge&logo=hackthebox&logoColor=C4B5FD&labelColor=0d1117" alt="Hack The Box" /></a>
 </div>
