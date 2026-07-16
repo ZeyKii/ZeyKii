@@ -9,7 +9,7 @@
 <div align="center">
   <samp>
     Computer science student specializing in <b>cybersecurity</b><br>
-    I share school & personal projects across different fields — feel free to reach out!
+    I share school & personal projects across different fields - feel free to reach out!
   </samp>
 </div>
 
