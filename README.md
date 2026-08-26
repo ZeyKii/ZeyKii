@@ -19,6 +19,7 @@
   <a href="mailto:maxance.ferran@outlook.fr"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=C4B5FD&labelColor=0d1117" alt="Email" /></a>
   <a href="https://linkedin.com/in/maxance-ferran"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=C4B5FD&labelColor=0d1117" alt="LinkedIn" /></a>
   <a href="https://discord.com/users/328241144586698752"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=C4B5FD&labelColor=0d1117" alt="Discord" /></a>
+  <a href="https://www.maxanceferran.com/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=C4B5FD&labelColor=0d1117" alt="Portfolio" /></a>
 </div>
 
 <br>
