@@ -78,8 +78,8 @@
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img height="165" src="https://stats.maxanceferran.com/api?username=ZeyKii&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=C4B5FD&icon_color=C4B5FD&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="165" src="https://stats.maxanceferran.com/api/top-langs/?username=ZeyKii&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=C4B5FD&text_color=c9d1d9" alt="Top languages" />
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 </div>
 
 <div align="center">
